@@ -1,11 +1,5 @@
-canvas
+img
 {
-border:2px solid black;
-}
-#butãoFoto
-{
-color:black;
-font-size: 25px;
-background-color: yellow;
-border-radius: 5px;
+width: 500px;
+height: 320px;
 }
